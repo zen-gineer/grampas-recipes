@@ -1,0 +1,1 @@
+When I became a mom, my grandfather began to come over to give me cooking lessons. He handwrote his recipes on index cards and gave me a box of them. This web app is being created so that I can share his gift with the rest of the family, and anyone else.
